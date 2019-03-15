@@ -26,3 +26,11 @@ Reference : https://m.blog.naver.com/roboholic84/221234060490<br>
 5. Edit where I commment<br>
 ![캡처](https://user-images.githubusercontent.com/42115807/54445814-ef741f80-4788-11e9-8a35-629cde77e1e7.PNG)
 
+6. Run the file.
+
+# Video
+https://www.youtube.com/watch?v=a-DMh3V5OG0<br>
+
+# Example file
+If you want to use my file put the file in /home/pi/AIY-voice-kit-python/src/examples/voice or anywhere.
+
