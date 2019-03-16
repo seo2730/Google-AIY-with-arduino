@@ -21,9 +21,9 @@ Reference : https://m.blog.naver.com/roboholic84/221234060490<br>
 
 3. Go to the path : /home/pi/AIY-voice-kit-python/src/examples/voice <br>
 
-4. You will see a lot of .py files. I use assistant.library_with_local_commands_demo.py.
+4. You will see a lot of .py files. I used assistant.library_with_local_commands_demo.py.
 
-5. Edit where I commment<br>
+5. Edit where I comment<br>
 ![캡처](https://user-images.githubusercontent.com/42115807/54445814-ef741f80-4788-11e9-8a35-629cde77e1e7.PNG)
 
 6. Run the file.
