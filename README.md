@@ -30,7 +30,8 @@ Reference : https://m.blog.naver.com/roboholic84/221234060490<br>
 6. Run the file.
 
 # Video
-https://www.youtube.com/watch?v=a-DMh3V5OG0<br>
+led : https://www.youtube.com/watch?v=a-DMh3V5OG0<br>
+servo : https://www.youtube.com/watch?v=bq20oG0sh8U
 
 # Example file
 If you want to use my file put the file in /home/pi/AIY-voice-kit-python/src/examples/voice or anywhere.
