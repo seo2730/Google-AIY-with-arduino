@@ -14,8 +14,11 @@ Reference : https://m.blog.naver.com/roboholic84/221234060490<br>
   
 # How to connect with arduino
 1. Open terminal and run<br>
+
+'''
   sudo apt-get install arduino<br>
-  
+'''
+
 2. connect arduino like the picture<br>
 ![KakaoTalk_20190316_010659353](https://user-images.githubusercontent.com/42115807/54445354-ecc4fa80-4787-11e9-952c-9b42503e9566.jpg)<br>
 
