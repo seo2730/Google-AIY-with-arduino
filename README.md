@@ -20,7 +20,8 @@ Reference : https://m.blog.naver.com/roboholic84/221234060490<br>
 2. connect arduino like the picture<br>
 ![KakaoTalk_20190316_010659353](https://user-images.githubusercontent.com/42115807/54445354-ecc4fa80-4787-11e9-952c-9b42503e9566.jpg)<br>
 
-3. Go to the path : /home/pi/AIY-voice-kit-python/src/examples/voice <br>
+3. Go to the path : <br>
+>cd /home/pi/AIY-voice-kit-python/src/examples/voice 
 
 4. You will see a lot of .py files. I used assistant.library_with_local_commands_demo.py.
 
